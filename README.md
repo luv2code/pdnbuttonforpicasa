@@ -1,2 +1,2 @@
 This adds a button to the bottom of Picasa that will open any selected images in Paint.Net.
-[Install the button into picasa](picasa://importbutton/?url=file:///C:/Users/matt.TAYLOR/Projects/pdnbuttonforpicasa.git/install/pdnbuttonforpicasa.pbz)
+[Install the button into picasa](/install.html)
