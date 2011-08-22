@@ -1,0 +1,14 @@
+<?xml  version="1.0" encoding="utf-8" ?>
+<buttons format="1" version="1.0">
+    <button id="pdn4p/{87658817-f8dc-400e-bffc-802221d0a0f8}" type="dynamic">
+        <icon name="{87658817-f8dc-400e-bffc-802221d0a0f8}/logo" src="pbz"/>
+        <label>Edit</label>
+        <tooltip>opens the file in Paint.net</tooltip>
+        <action  verb="trayexec">
+            <param name="exe_path" value="C:\Program Files\Paint.NET\PaintDotNet.exe"/>
+            <param name="export" value="0"/>
+            <param name="export_message" value="Opening files in Paint.Net..."/>
+            <param name="foreach" value="1"/>
+        </action>
+    </button>
+</buttons>
